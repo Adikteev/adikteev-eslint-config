@@ -2,12 +2,10 @@
   "name": "eslint-config-adikteev",
   "version": "1.0.1",
   "description": "ESLint shareable config",
-  "files": [
-    "index.js"
-  ],
+  "files": ["index.js"],
   "author": "Adikteev",
   "license": "Apache-2.0",
-  "peerDependencies": {
+  "dependencies": {
     "babel-eslint": "^8.2.1",
     "eslint": "^4.16.0",
     "eslint-config-airbnb": "^16.1.0",
