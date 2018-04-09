@@ -15,10 +15,12 @@
     "eslint-plugin-flowtype": "^2.41.0",
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-prettier": "^2.6.0",
     "eslint-plugin-react": "^7.5.1",
-    "eslint-plugin-prettier": "^2.6.0"
+    "prettier": "^1.11.1"
   },
   "peerDependencies": {
-    "eslint": ">= 4"
+    "eslint": ">= 4",
+    "prettier": ">= 0.11.0"
   }
 }
